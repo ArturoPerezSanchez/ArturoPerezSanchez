@@ -10,16 +10,15 @@ I have a solid foundation in building robust backend systems and enjoy crafting 
 When I'm not coding, you'll find me exploring the latest advancements in AI research 🔬, devouring tech blogs and podcasts 📚, or challenging myself with coding puzzles on LeetCode 🧠. I'm always seeking ways to expand my skill set and stay ahead of the game. 🚀
 
 ## Skills
-- ⚙️ Data Structures and Algorithms
-- 🤖 Artificial Intelligence
-- 💻 Backend Development
 - 🌐 Web Development
-- 📊 Data Analysis.
+- 🤖 Artificial Intelligence
+- ⚙️ Data Structures and Algorithms
+- 📊 Data Analysis
 
 ## Experience
-- Product Owner at QBI Solutions (Apr 2023 - Present)
-- Software Engineer at Management Solutions (Sep 2021 - Mar 2023)
-- Software Engineer Intern at NTT Data (Mar 2019 - Oct 2019)
+- QBI Solutions (Apr 2023 - Present)
+- Management Solutions (Sep 2021 - Mar 2023)
+- NTT Data (Mar 2019 - Oct 2019)
 
 ## Interests
 - 🌐 Web Development
